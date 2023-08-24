@@ -6,9 +6,11 @@ console.log(name);
 
 const a = 10;
 const b = 29;
-const math = `The sum of ${a} and ${b} is actually ${a+b}`
-// console.log(math)
-
+const math = `The sum of${a}and ${b} is actually ${a+b}`
+console.log(math)
+const obj = {foo: 1};
+obj.bar = 2;
+console.log(obj);
 // old way 
 // const text = 'Hi john \n' +
 // 'cena cena lagy \n' + 
