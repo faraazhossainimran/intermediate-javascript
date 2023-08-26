@@ -43,6 +43,7 @@ console.log(doMath(4,5,6));
 
 
 
+ 
 
 
 
@@ -50,6 +51,3 @@ console.log(doMath(4,5,6));
 
 
 
-
-const arrowFunc = (a,b) => a+b;
-const print = arrowFunc(4,5)
