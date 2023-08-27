@@ -1,4 +1,5 @@
 // data access 
+// chaining - .?
 const data = [{ id: 1, name: 'abol', address: 'kochu khet'}];
 
 console.log(data[0].name);
