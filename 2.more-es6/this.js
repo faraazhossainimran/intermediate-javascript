@@ -21,3 +21,12 @@ console.log(badam.sleep);
 // vejal
 const lazy = kodom.sleep;
 lazy()
+
+
+// const person = {
+//     name: "John",
+//     age: 30,
+//     introduce: function() {
+//       console.log("Hi, my name is " + this.name + " and I'm " + this.age + " years old.");
+//     }
+//   };
